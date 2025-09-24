@@ -1,0 +1,60 @@
+name: shopkeeper
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get:
+  get_storage:
+  flutter_native_splash:
+  http:
+  logging:
+  url_launcher:
+  iconsax:
+  cupertino_icons:
+  device_preview:
+  carousel_slider:
+  marker:
+  readmore:
+  flutter_rating_bar:
+  flutter_animate:
+  lottie:
+  dotted_border:
+  smooth_page_indicator:
+  intl:
+  path_provider:
+  path:
+  connectivity_plus:
+  image_picker:
+  image:
+  flutter_gemini:
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+  firebase_database:
+  emoji_picker_flutter:
+  photo_manager:
+  image_picker_android:
+  flutter_staggered_grid_view:
+  logger: ^2.6.1
+  animations: ^2.0.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/

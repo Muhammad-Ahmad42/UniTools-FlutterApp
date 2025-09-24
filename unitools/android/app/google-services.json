@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1072953170013",
+    "firebase_url": "https://uni-tool-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uni-tool-app",
+    "storage_bucket": "uni-tool-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072953170013:android:a908a80e631605304095b4",
+        "android_client_info": {
+          "package_name": "com.example.storekeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTF76EULNuXQ_U7eY_rEz5ZREofsnyE_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072953170013:android:cdd62a2b34b3aac54095b4",
+        "android_client_info": {
+          "package_name": "com.example.unitools"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTF76EULNuXQ_U7eY_rEz5ZREofsnyE_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
